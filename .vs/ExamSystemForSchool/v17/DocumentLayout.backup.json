@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jee\\source\\repos\\ExamSystemForSchool\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{907197E3-109E-49DD-B99D-A0D71CFE2B8E}|ExamSystemForSchool.csproj|c:\\users\\jee\\source\\repos\\examsystemforschool\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{907197E3-109E-49DD-B99D-A0D71CFE2B8E}|ExamSystemForSchool.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{907197E3-109E-49DD-B99D-A0D71CFE2B8E}|ExamSystemForSchool.csproj|c:\\users\\jee\\source\\repos\\examsystemforschool\\controllers\\examscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{907197E3-109E-49DD-B99D-A0D71CFE2B8E}|ExamSystemForSchool.csproj|solutionrelative:controllers\\examscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{907197E3-109E-49DD-B99D-A0D71CFE2B8E}|ExamSystemForSchool.csproj|c:\\users\\jee\\source\\repos\\examsystemforschool\\dtos\\examdto\\examreaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{907197E3-109E-49DD-B99D-A0D71CFE2B8E}|ExamSystemForSchool.csproj|solutionrelative:dtos\\examdto\\examreaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{907197E3-109E-49DD-B99D-A0D71CFE2B8E}|ExamSystemForSchool.csproj|c:\\users\\jee\\source\\repos\\examsystemforschool\\dtos\\lessondto\\lessonreaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{907197E3-109E-49DD-B99D-A0D71CFE2B8E}|ExamSystemForSchool.csproj|solutionrelative:dtos\\lessondto\\lessonreaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{907197E3-109E-49DD-B99D-A0D71CFE2B8E}|ExamSystemForSchool.csproj|c:\\users\\jee\\source\\repos\\examsystemforschool\\controllers\\lessonscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{907197E3-109E-49DD-B99D-A0D71CFE2B8E}|ExamSystemForSchool.csproj|solutionrelative:controllers\\lessonscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{907197E3-109E-49DD-B99D-A0D71CFE2B8E}|ExamSystemForSchool.csproj|c:\\users\\jee\\source\\repos\\examsystemforschool\\profiles\\mapperprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{907197E3-109E-49DD-B99D-A0D71CFE2B8E}|ExamSystemForSchool.csproj|solutionrelative:profiles\\mapperprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{907197E3-109E-49DD-B99D-A0D71CFE2B8E}|ExamSystemForSchool.csproj|c:\\users\\jee\\source\\repos\\examsystemforschool\\dtos\\examdto\\examcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{907197E3-109E-49DD-B99D-A0D71CFE2B8E}|ExamSystemForSchool.csproj|solutionrelative:dtos\\examdto\\examcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LessonReadDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Jee\\source\\repos\\ExamSystemForSchool\\DTOs\\LessonDTO\\LessonReadDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\LessonDTO\\LessonReadDTO.cs",
+              "ToolTip": "C:\\Users\\Jee\\source\\repos\\ExamSystemForSchool\\DTOs\\LessonDTO\\LessonReadDTO.cs",
+              "RelativeToolTip": "DTOs\\LessonDTO\\LessonReadDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T06:45:46.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ExamReadDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Jee\\source\\repos\\ExamSystemForSchool\\DTOs\\ExamDTO\\ExamReadDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\ExamDTO\\ExamReadDTO.cs",
+              "ToolTip": "C:\\Users\\Jee\\source\\repos\\ExamSystemForSchool\\DTOs\\ExamDTO\\ExamReadDTO.cs",
+              "RelativeToolTip": "DTOs\\ExamDTO\\ExamReadDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T06:40:23.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Jee\\source\\repos\\ExamSystemForSchool\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Jee\\source\\repos\\ExamSystemForSchool\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAADEAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T06:31:55.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MapperProfiles.cs",
+              "DocumentMoniker": "C:\\Users\\Jee\\source\\repos\\ExamSystemForSchool\\Profiles\\MapperProfiles.cs",
+              "RelativeDocumentMoniker": "Profiles\\MapperProfiles.cs",
+              "ToolTip": "C:\\Users\\Jee\\source\\repos\\ExamSystemForSchool\\Profiles\\MapperProfiles.cs",
+              "RelativeToolTip": "Profiles\\MapperProfiles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T06:30:32.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ExamCreateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Jee\\source\\repos\\ExamSystemForSchool\\DTOs\\ExamDTO\\ExamCreateDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\ExamDTO\\ExamCreateDTO.cs",
+              "ToolTip": "C:\\Users\\Jee\\source\\repos\\ExamSystemForSchool\\DTOs\\ExamDTO\\ExamCreateDTO.cs",
+              "RelativeToolTip": "DTOs\\ExamDTO\\ExamCreateDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T06:19:50.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LessonsController.cs",
+              "DocumentMoniker": "C:\\Users\\Jee\\source\\repos\\ExamSystemForSchool\\Controllers\\LessonsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LessonsController.cs",
+              "ToolTip": "C:\\Users\\Jee\\source\\repos\\ExamSystemForSchool\\Controllers\\LessonsController.cs",
+              "RelativeToolTip": "Controllers\\LessonsController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwCIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T06:12:04.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ExamsController.cs",
+              "DocumentMoniker": "C:\\Users\\Jee\\source\\repos\\ExamSystemForSchool\\Controllers\\ExamsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ExamsController.cs",
+              "ToolTip": "C:\\Users\\Jee\\source\\repos\\ExamSystemForSchool\\Controllers\\ExamsController.cs",
+              "RelativeToolTip": "Controllers\\ExamsController.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAkwB4AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T06:11:48.526Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
