@@ -172,3 +172,4 @@ C:\Users\Jee\source\repos\ExamSystemForSchool\bin\Debug\net8.0\Newtonsoft.Json.d
 C:\Users\Jee\source\repos\ExamSystemForSchool\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
 C:\Users\Jee\source\repos\ExamSystemForSchool\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
 C:\Users\Jee\source\repos\ExamSystemForSchool\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+C:\Users\Jee\source\repos\ExamSystemForSchool\obj\Debug\net8.0\ExamSystemForSchool.sourcelink.json

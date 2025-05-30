@@ -1,4 +1,5 @@
 ﻿using ExamSystemForSchool.Models;
+using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 
 namespace ExamSystemForSchool.Data.Exams
@@ -44,6 +45,26 @@ namespace ExamSystemForSchool.Data.Exams
         public async Task UpdateExamAsync(Exam exam)
         {
             //controllerde edeceyik
+        }
+
+        public async Task<IEnumerable<Exam>> GetExamsByStudentAsync(int studentCode)
+        {
+            var exams = await _dbContext.Exams
+                .Where(e => e.StudentCode == studentCode)
+                .Include(e => e.Lesson)
+                .ToListAsync();
+
+            return exams;
+        }
+
+        public async Task<IEnumerable<Exam>> GetExamsByLessonAsync(string lessonCode)
+        {
+            var exams = await _dbContext.Exams
+                .Where(e => e.LessonCode == lessonCode)
+                .Include(e => e.Student)
+                .ToListAsync();
+
+            return exams;
         }
     }
 }

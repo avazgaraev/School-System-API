@@ -5,6 +5,7 @@ using ExamSystemForSchool.DTOs.LessonDTO;
 using ExamSystemForSchool.Models;
 using Microsoft.AspNetCore.JsonPatch;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 
 namespace ExamSystemForSchool.Controllers
 {
@@ -92,6 +93,22 @@ namespace ExamSystemForSchool.Controllers
             await _examRepo.RemoveExamAsync(model);
             await _examRepo.SaveChangesAsync();
             return NoContent();
+        }
+
+        [HttpGet("by-student/{studentCode}")]
+        public async Task<ActionResult<IEnumerable<ExamReadDTO>>> GetExamsByStudent(int studentCode)
+        {
+            var model =  await _examRepo.GetExamsByStudentAsync(studentCode);
+
+            return Ok(_mapper.Map<IEnumerable<ExamReadDTO>>(model));
+        }
+
+        [HttpGet("by-lesson/{lessonCode}")]
+        public async Task<ActionResult<IEnumerable<ExamReadDTO>>> GetExamsByLesson(string lessonCode)
+        {
+            var model = await _examRepo.GetExamsByLessonAsync(lessonCode);
+
+            return Ok(_mapper.Map<IEnumerable<ExamReadDTO>>(model));
         }
     }
 }

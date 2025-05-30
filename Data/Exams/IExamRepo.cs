@@ -1,4 +1,5 @@
 ﻿using ExamSystemForSchool.Models;
+using Microsoft.AspNetCore.Mvc;
 
 namespace ExamSystemForSchool.Data.Exams
 {
@@ -10,5 +11,7 @@ namespace ExamSystemForSchool.Data.Exams
         Task UpdateExamAsync(Exam exam);
         Task RemoveExamAsync(Exam exam);
         Task<bool> SaveChangesAsync();
+        Task<IEnumerable<Exam>> GetExamsByStudentAsync(int studentCode);
+        Task<IEnumerable<Exam>> GetExamsByLessonAsync(string lessonCode);
     }
 }
